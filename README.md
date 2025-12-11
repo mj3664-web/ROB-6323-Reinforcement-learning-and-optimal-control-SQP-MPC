@@ -1,0 +1,1 @@
+This is Project1 from the course ROB6323 at NYU Tandon. The objective is to design an optimal control strategy that enables at leasr 360 degree change for the angle, and Sequential Quadratic Programming(SQP) solver together with MPC is utilized to compute the optimal control inputs at each time step
